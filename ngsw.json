@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1592948920432,
+  "index": "https://renato-damazio.github.io/pages-web-application/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://renato-damazio.github.io/pages-web-application/favicon.ico",
+        "https://renato-damazio.github.io/pages-web-application/index.html",
+        "https://renato-damazio.github.io/pages-web-application/main-es2015.79760895da276887b179.js",
+        "https://renato-damazio.github.io/pages-web-application/main-es5.79760895da276887b179.js",
+        "https://renato-damazio.github.io/pages-web-application/manifest.webmanifest",
+        "https://renato-damazio.github.io/pages-web-application/polyfills-es2015.f332a089ad1600448873.js",
+        "https://renato-damazio.github.io/pages-web-application/polyfills-es5.177e85a9724683782539.js",
+        "https://renato-damazio.github.io/pages-web-application/runtime-es2015.0dae8cbc97194c7caed4.js",
+        "https://renato-damazio.github.io/pages-web-application/runtime-es5.0dae8cbc97194c7caed4.js",
+        "https://renato-damazio.github.io/pages-web-application/styles.a383ef5b374edace9409.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://renato-damazio.github.io/pages-web-application/assets/css/bootstrap.min.css",
+        "https://renato-damazio.github.io/pages-web-application/assets/css/mdb.min.css",
+        "https://renato-damazio.github.io/pages-web-application/assets/css/style.css",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-128x128.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-144x144.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-152x152.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-192x192.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-384x384.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-512x512.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-72x72.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-96x96.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/img/logo/soue_blue_default.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/img/logo/soue_white_default.png",
+        "https://renato-damazio.github.io/pages-web-application/assets/js/bootstrap.min.js",
+        "https://renato-damazio.github.io/pages-web-application/assets/js/jquery.min.js",
+        "https://renato-damazio.github.io/pages-web-application/assets/js/mdb.min.js",
+        "https://renato-damazio.github.io/pages-web-application/assets/js/popper.min.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://renato-damazio.github.io/pages-web-application/assets/css/bootstrap.min.css": "4f14a09a606c99a11f8fda15564ef66f70402826",
+    "https://renato-damazio.github.io/pages-web-application/assets/css/mdb.min.css": "c4d0d273022f4e7d46baaacd4554a77e80e1a7a6",
+    "https://renato-damazio.github.io/pages-web-application/assets/css/style.css": "37dc19d8e2b1d60e0776237fd015ba7e8ecd71ee",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://renato-damazio.github.io/pages-web-application/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://renato-damazio.github.io/pages-web-application/assets/img/logo/soue_blue_default.png": "c4b80cbee347ff3137568e5ceaca0ded69653821",
+    "https://renato-damazio.github.io/pages-web-application/assets/img/logo/soue_white_default.png": "eddd7ccfb16dcc12e36c62faae03eab49e0ad474",
+    "https://renato-damazio.github.io/pages-web-application/assets/js/bootstrap.min.js": "544afefd148715da7dd52d368a414703390ca0e0",
+    "https://renato-damazio.github.io/pages-web-application/assets/js/jquery.min.js": "d2cc8d43ce1c854b1172e42b1209502ad563db83",
+    "https://renato-damazio.github.io/pages-web-application/assets/js/mdb.min.js": "63db4c447e48a1263544f887666d7fe850c402e2",
+    "https://renato-damazio.github.io/pages-web-application/assets/js/popper.min.js": "42e3ca1212d825150c0f57f97dea8d9c0b0ce2a1",
+    "https://renato-damazio.github.io/pages-web-application/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://renato-damazio.github.io/pages-web-application/index.html": "efc28539469529792484c3d1c4e6e36d90b8edae",
+    "https://renato-damazio.github.io/pages-web-application/main-es2015.79760895da276887b179.js": "3a4ac8f4576d639c65d23cab5c121094dee17471",
+    "https://renato-damazio.github.io/pages-web-application/main-es5.79760895da276887b179.js": "8b2301df54ac25277a9746740279db3970752d88",
+    "https://renato-damazio.github.io/pages-web-application/manifest.webmanifest": "fcc2a927d640d39760fced5ba30ee1a09d36227e",
+    "https://renato-damazio.github.io/pages-web-application/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://renato-damazio.github.io/pages-web-application/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://renato-damazio.github.io/pages-web-application/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://renato-damazio.github.io/pages-web-application/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://renato-damazio.github.io/pages-web-application/styles.a383ef5b374edace9409.css": "297e6742cce6bdbeb3eaca590611c3b29ef0d5da"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
